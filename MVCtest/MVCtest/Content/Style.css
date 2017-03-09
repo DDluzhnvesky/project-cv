@@ -1,0 +1,171 @@
+body{
+    background-color: #ccc;
+}
+#wrapper{
+    width: 1100px;
+    height: auto;
+    margin: auto;
+    background-color: #2b3740;
+}
+#header{
+    width: 100%;
+    height: auto;
+}
+#header img{
+    width: 100%;
+    height: 300px;
+}
+#content{
+    width: 80%;
+    height: auto;
+    margin: 0 10%;
+}
+#nav{
+    width: 200px;
+    height: 600px;
+    float: left;
+    margin-top: 20px;
+}
+#nav img{
+    width: 200px;
+}
+#nav ul{
+    height: 500px;
+}
+#main{
+    width: calc(100% - 200px);
+    float: right;
+}
+#footer{
+    clear: both;
+    margin: 0 10%;
+    height: 37px;
+    padding-top: 20px;
+    clear: both;
+}
+#nav ul, #nav, #main_title, .small_planet, .big_planet, #footer{
+    background-color: white;
+}
+
+/*Navigation*/
+
+ul{
+    padding: 0; margin: 0;
+}
+ul li{
+    list-style: none;
+}
+ul li:nth-child(n+2)
+{
+    padding: 20px;
+    
+}
+ul li:nth-child(n+2):hover
+{
+    background-color: rgba(0,0,0,0.1);
+}
+
+/*References*/
+
+a,a:visited
+{
+    color:black; text-decoration: none;
+}
+table a{
+    padding-left: 27px;
+    width: auto;
+}
+
+/*Text*/
+*{
+    font-family: 'Trebushet MS', Helvetica, sans-serif;
+}
+h1{padding-left: 20px;}
+h2{margin-top: 0;}
+small{
+    align-self:
+    font-size: 60%;
+}
+#footer{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    height: 250px;
+    overflow: hidden;
+}
+
+/*Table*/
+
+table{
+    border-spacing: 20px;
+}
+.small_planet{
+    width: 200px;
+    border-bottom: 5px solid #277dab;
+    padding: 0;
+    margin: 0;
+}
+.small_planet img{
+    width: 205px;
+    height: 160px;
+}
+
+.small_planet .content{
+    padding: 10px;
+    height: 400p
+}
+
+/*Forms*/
+
+.big_palanet{
+    padding: 0;
+    margin: 0;
+}
+.big_planet img{
+    width: 300px;
+    height: 220px;
+    float: left;
+}
+form{
+    width: calc(100%-100px);
+}
+fieldset{
+    border: none;
+    padding: 0 20px;
+}
+legend{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 20px 0;
+}
+input, select{
+    padding-left: 20px;
+    background-color: #ececec;
+    border-style: none;
+    height: 30px;
+    margin-bottom: 10px;
+    width: calc(100% - 20px);
+}
+select{
+    width: 100%;
+}
+input[type=submit]{
+    color: black;
+    padding-left: 27px;
+    
+}
+
+/*Planet htmls*/
+.big_pic, .small_pic{
+    width: 100%;
+}
+.big_pic img{
+    width: 660px;
+}
+.small_pic img{
+    width: 205px;
+    height: 130px;
+}
+

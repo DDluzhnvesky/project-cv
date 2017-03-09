@@ -1,0 +1,22 @@
+﻿@model MVCtest.Models.Planet
+@{
+    Layout = "/Views/MasterView.cshtml";
+    var parts = @Model.SubPreview.Split(',');
+}
+
+<table>
+    <tr>
+        <th id="main_title" colspan="3"><h1>@Model.Title</h1></th>
+    </tr>
+    @if (parts.Any())
+    {
+        <tr class="big_pic">
+            <td colspan="3"><img id="preview" src="@parts[0]" alt="Preview" /></td>
+        </tr>
+        <tr class="small_pic">
+            <td><img onclick="setImg(this.src)" src="@parts[1]" alt="First Pic" /></td>
+            <td><img onclick="setImg(this.src)" src="@parts[2]" alt="Second Pic" /></td>
+            <td><img onclick="setImg(this.src)" src="@parts[3]" alt="Third Pic" /></td>
+        </tr>
+    }
+</table>

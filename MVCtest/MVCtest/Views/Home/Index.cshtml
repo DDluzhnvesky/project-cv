@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MVCtest.Models.Planet>
+@{
+    Layout = "/Views/MasterView.cshtml";
+}
+
+<table>
+    <tr>
+        <th id="main_title" colspan="3"><h1>Main</h1></th>
+    </tr>
+    <tr>
+        @foreach (var item in Model)
+        {
+            <td class="small_planet">
+                <img src="@item.Preview" alt="@item.Title" />
+                <div class="content">
+                    <small>@item.Type</small>
+                    <h2>@item.Title</h2>
+                    <p>@item.Description</p>
+                    <a href="@Url.Action("PlanetPage", "Home", new { item_id = item.Id})" title="@item.Title">More info</a>
+                </div>
+            </td>
+        }
+    </tr>
+    <tr>
+        @Html.Action("Form","Home")
+    </tr>
+</table>

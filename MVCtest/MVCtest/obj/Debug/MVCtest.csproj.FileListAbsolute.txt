@@ -1,0 +1,100 @@
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\ApplicationInsights.config
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\csc.exe
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\System.Collections.Immutable.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\vbc.exe
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\VBCSCompiler.exe
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\roslyn\VBCSCompiler.exe.config
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\MVCtest.dll.config
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\MVCtest.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\MVCtest.pdb
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\EntityFramework.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\EntityFramework.SqlServer.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.Web.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.WindowsServer.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.ApplicationInsights.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.Web.Infrastructure.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Helpers.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Mvc.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Razor.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Webpages.Deployment.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Webpages.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Webpages.Razor.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\EntityFramework.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\EntityFramework.SqlServer.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.Web.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.AI.WindowsServer.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.ApplicationInsights.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Razor.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Webpages.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Webpages.Deployment.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Webpages.Razor.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Helpers.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\bin\System.Web.Mvc.xml
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\obj\Debug\MVCtest.dll
+c:\users\envy\documents\visual studio 2015\Projects\MVCtest\MVCtest\obj\Debug\MVCtest.pdb
+C:\Users\Envy\Documents\Visual Studio 2015\Projects\MVCtest\MVCtest\obj\Debug\MVCtest.csprojResolveAssemblyReference.cache
+E:\MVCtest\MVCtest\bin\ApplicationInsights.config
+E:\MVCtest\MVCtest\bin\roslyn\csc.exe
+E:\MVCtest\MVCtest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVCtest\MVCtest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCtest\MVCtest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVCtest\MVCtest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVCtest\MVCtest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVCtest\MVCtest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVCtest\MVCtest\bin\roslyn\System.Collections.Immutable.dll
+E:\MVCtest\MVCtest\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVCtest\MVCtest\bin\roslyn\vbc.exe
+E:\MVCtest\MVCtest\bin\roslyn\VBCSCompiler.exe
+E:\MVCtest\MVCtest\bin\roslyn\VBCSCompiler.exe.config
+E:\MVCtest\MVCtest\bin\MVCtest.dll.config
+E:\MVCtest\MVCtest\bin\MVCtest.dll
+E:\MVCtest\MVCtest\bin\MVCtest.pdb
+E:\MVCtest\MVCtest\bin\EntityFramework.dll
+E:\MVCtest\MVCtest\bin\EntityFramework.SqlServer.dll
+E:\MVCtest\MVCtest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MVCtest\MVCtest\bin\Microsoft.AI.DependencyCollector.dll
+E:\MVCtest\MVCtest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MVCtest\MVCtest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MVCtest\MVCtest\bin\Microsoft.AI.Web.dll
+E:\MVCtest\MVCtest\bin\Microsoft.AI.WindowsServer.dll
+E:\MVCtest\MVCtest\bin\Microsoft.ApplicationInsights.dll
+E:\MVCtest\MVCtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVCtest\MVCtest\bin\Microsoft.Web.Infrastructure.dll
+E:\MVCtest\MVCtest\bin\System.Web.Helpers.dll
+E:\MVCtest\MVCtest\bin\System.Web.Mvc.dll
+E:\MVCtest\MVCtest\bin\System.Web.Razor.dll
+E:\MVCtest\MVCtest\bin\System.Web.Webpages.Deployment.dll
+E:\MVCtest\MVCtest\bin\System.Web.Webpages.dll
+E:\MVCtest\MVCtest\bin\System.Web.Webpages.Razor.dll
+E:\MVCtest\MVCtest\bin\EntityFramework.xml
+E:\MVCtest\MVCtest\bin\EntityFramework.SqlServer.xml
+E:\MVCtest\MVCtest\bin\Microsoft.AI.DependencyCollector.xml
+E:\MVCtest\MVCtest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MVCtest\MVCtest\bin\Microsoft.AI.Web.xml
+E:\MVCtest\MVCtest\bin\Microsoft.AI.WindowsServer.xml
+E:\MVCtest\MVCtest\bin\Microsoft.ApplicationInsights.xml
+E:\MVCtest\MVCtest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVCtest\MVCtest\bin\System.Web.Razor.xml
+E:\MVCtest\MVCtest\bin\System.Web.Webpages.xml
+E:\MVCtest\MVCtest\bin\System.Web.Webpages.Deployment.xml
+E:\MVCtest\MVCtest\bin\System.Web.Webpages.Razor.xml
+E:\MVCtest\MVCtest\bin\System.Web.Helpers.xml
+E:\MVCtest\MVCtest\bin\System.Web.Mvc.xml
+E:\MVCtest\MVCtest\obj\Debug\MVCtest.csprojResolveAssemblyReference.cache
+E:\MVCtest\MVCtest\obj\Debug\MVCtest.dll
+E:\MVCtest\MVCtest\obj\Debug\MVCtest.pdb

@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Universe Store</title>
+    <link rel="stylesheet" href="/Content/Style.css" />
+    <script src="/Content/jquery-3.1.1.min.js"></script>
+    <script src="/Content/Script.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header"><img src="/Content/Images/Header.jpg" alt="Header" /></div>
+        <div id="content">
+            <div id="nav">
+                <ul>
+                    <li><a title="Main Page" href="/Home/Index"><img src="/Content/Images/Main.jpg" alt="log" /></a></li>
+                    <li><a title="Mars" href="/Home/PlanetPage?item_id=1">Mars</a></li>
+                    <li><a title="Saturn" href="/Home/PlanetPage?item_id=2">Saturn</a></li>
+                    <li><a title="Neptune" href="/Home/PlanetPage?item_id=3">Neptune</a></li>
+                </ul>
+            </div>
+            <div id="main">
+                @RenderBody()
+            </div>
+        </div>
+        <div id="footer">MVC Test</div>
+    </div>
+</body>
+</html>  

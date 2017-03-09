@@ -1,0 +1,14 @@
+﻿<td class="big_planet" colspan="3">
+    <img src="/Content/Images/Form.jpg" alt="Form" />
+    <form onsubmit="return false" action="/Home/Form" method="POST">
+        <fieldset>
+            <legend>Checkout</legend>
+            <input type="text" name="Name" placeholder="Enter your name" required /><br />
+            <input type="tel" name="Tel" placeholder="+38-(xxx)-(xxx)-(xxxx)" required pattern="8-[0-9]{3}-[0-9]{3}-[0-9]{4}" /><br />
+            <select name="Planet">
+                @Html.Action("FormOptions", "Home", new { item_id = ViewBag.Item})
+            </select><br />
+            <input type="submit" />
+        </fieldset>
+    </form>
+</td>
